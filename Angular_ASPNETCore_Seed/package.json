@@ -1,10 +1,10 @@
 {
-    "name": "angular-aspnetcore-seed",
-    "author": "Dan Wahlin",
-    "version": "1.0.0",
+    "name": "ng-core-sept",
+    "author": "John J Mulkearns",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
-        "url": "https://github.com/danwahlin/angular-aspnetcore-seed"
+        "url": "https://github.com/TheMulkyWay/angular-aspnetcore-seed"
     },
     "scripts": {
         "clean": "del-cli \"wwwroot/app/**/*.js\" \"wwwroot/app/**/*.js.map\" \"wwwroot/devDist\" \"wwwroot/dist\"",
